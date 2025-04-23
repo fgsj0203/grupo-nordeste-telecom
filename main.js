@@ -85,3 +85,4 @@ ScrollReveal().reveal(".service__btn", {
 const swiper = new Swiper(".swiper", {
   loop: true,
 });
+
