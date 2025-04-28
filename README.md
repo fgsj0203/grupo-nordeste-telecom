@@ -1,3 +1,5 @@
+![image-nordeste-telecom-removebg-preview](https://github.com/user-attachments/assets/fb8535a0-6759-4a2b-9d3f-9a4e5d7c8549)
+
 # Documentação referente ao site institucional do grupo Nordeste Telecom - Provedor de internet
 
 
